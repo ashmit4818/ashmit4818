@@ -1,7 +1,7 @@
 ![Masterhead](https://coding.blog/img/update-social-banner.png)
 <h1 align="center">Hi 👋, I'm Ashmit</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmit4818&label=Profile%20views&color=0e75b6&style=flat" alt="ashmit4818" /> </p>
 
@@ -18,6 +18,7 @@
 - 📫 How to reach me **https://linktr.ee/ashmit4818**
 
 - ⚡ Fun fact **I like Dark Humour and Adultswim**
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
